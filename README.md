@@ -1,4 +1,4 @@
-## Oie eu sou o Marcelo Migueis, analista cloud!
+## Oii, eu sou o Marcelo Migueis, analista cloud!
 
 <div align="center">
   <a href="https://github.com/marcelomigueis">
